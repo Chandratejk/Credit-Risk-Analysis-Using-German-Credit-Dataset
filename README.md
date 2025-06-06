@@ -1,6 +1,6 @@
 # Credit Risk Analysis Using German Credit Dataset
 ## Introduction
-This project focuses on predicting individual credit risk using the German Credit dataset. The goal is to classify borrowers as either good or bad credit risks by analyzing a range of personal and financial attributes. The dataset includes variables such as demographic information, employment history, credit behavior, and other financial metrics—making it well-suited for developing predictive models. By leveraging this dataset, users can access consolidated credit-related information without the need to manually gather data from multiple or restricted sources. It enables more efficient risk assessment and supports informed lending decisions.
+This project focuses on predicting individual credit risk using the German Credit dataset. The goal is to classify borrowers as either good or bad credit risks by analyzing a range of personal and financial attributes. The dataset includes variables such as demographic information, employment history, credit behavior, and other financial metrics making it well suited for developing predictive models. By leveraging this dataset, users can access consolidated credit-related information without the need to manually gather data from multiple or restricted sources. It enables more efficient risk assessment and supports informed lending decisions.
 
 Dataset source: https://www.dataminingbook.com/content/datasets-download-1st-edition
 
